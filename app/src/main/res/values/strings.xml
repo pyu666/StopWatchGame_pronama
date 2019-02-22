@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">StopWatchGame_pronama</string>
+    <string name="bt_start">START</string>
+    <string name="tx_timer">Time</string>
+    <string name="goal">Goal</string>
+    <string name="tx_goal">目標時間</string>
+    <string name="your_time">結果</string>
+    <string name="diff">差</string>
+    <string name="differ">differ</string>
+    <string name="img">pronama</string>
+    <string name="start">START</string>
+    <string name="stop">STOP</string>
+    <string name="reset">RESET</string>
+</resources>
